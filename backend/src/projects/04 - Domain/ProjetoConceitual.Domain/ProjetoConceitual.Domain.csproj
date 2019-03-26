@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Finance\Entities\" />
+    <Folder Include="Areas\Finance\" />
+    <Folder Include="Areas\Finance\Interfaces\" />
+    <Folder Include="Areas\Finance\Services\" />
+    <Folder Include="Areas\Reports\Entities\" />
+    <Folder Include="Areas\Reports\Interfaces\" />
+    <Folder Include="Areas\Reports\Services\" />
+  </ItemGroup>
+
+</Project>
